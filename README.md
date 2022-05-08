@@ -1,22 +1,21 @@
-# 📊 Project: Simple API 2
+
+# 📊 Project:Simple API 2
 
 ### Goal: Display data returned from an api
 
-### How to submit your code for review:
+Build an application that allows users to input a date and view Disney characters
+**Link to project: https://ddsimpleapitwo.netlify.app/ 
 
-- Fork and clone this repo
-- Create a new branch called answer
-- Checkout answer branch
-- Push to your fork
-- Issue a pull request
-- Your pull request description should contain the following:
-  - (1 to 5 no 3) I completed the challenge
-  - (1 to 5 no 3) I feel good about my code
-  - Anything specific on which you want feedback!
+###  My Simple API Project
+This project highlights my use of HTML, CSS and javaScript; a nostalgic list of data displaying characters names from Disney Channel.
 
-Example:
-```
-I completed the challenge: 5
-I feel good about my code: 4
-I'm not sure if my constructors are setup cleanly...
-```
+![snip](pic.PNG)
+
+## How It's Made:
+
+**Tech used:** HTML, CSS, JavaScript
+
+
+I utilized my skills in javaScript, HTML and CSS to include the use of API's paramteres into my functions and printing the results (depending on users choices)to the document.
+## Lessons Learned:
+I learned how to utlize a ul in the dom to append an li which was later used to display the API data.

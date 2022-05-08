@@ -1,0 +1,33 @@
+*{
+box-sizing: border-box;
+}
+body{
+  background: black;
+
+}
+
+button{
+  background:rgb(85, 85, 85) ;
+  margin-top: 300px;
+  color:rgb(236, 217, 10);
+  height: 40px;
+  border-radius: 3px;
+  width:15%;
+  float:right;
+}
+h1{
+  color:rgb(241, 241, 180);
+}
+
+ul li{
+  color:white;
+  padding:12px;
+}
+button:hover{
+  background:rgb(214, 191, 13);
+  color:rgb(6, 5, 5);
+}
+header img{
+  float:right;
+  border-radius:9px;
+}
